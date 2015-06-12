@@ -1,0 +1,24 @@
+{
+  "name": "einsights-frontend",
+  "version": "0.0.1",
+  "description": "Einsights Internal Js Component",
+  "main": "ein.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/einsights/einsights-frontend"
+  },
+  "author": "Einsights",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "3.9.0",
+    "gulp-browserify": "0.5.1",
+    "gulp-jshint": "^1.11.0",
+    "gulp-mocha": "2.1.1",
+    "gulp-rename": "1.2.2",
+    "gulp-uglify": "1.2.0",
+    "jshint-stylish": "^2.0.0"
+  }
+}
